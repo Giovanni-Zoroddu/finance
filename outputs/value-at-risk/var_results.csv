@@ -1,0 +1,10 @@
+,Results at the 95th CI:
+Expected Portfolio Return,3508.47
+Historical VaR,12928.11
+Historical CVaR,16537.97
+Normal VaR,10697.59
+Normal CVaR,14306.5
+t-distribution VaR,10194.47
+t-distribution CVaR,15113.62
+Monte Carlo VaR,10544.5
+Monte Carlo CVaR,13645.33
